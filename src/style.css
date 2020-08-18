@@ -1,0 +1,11 @@
+.cardc{
+	margin: 20px;
+	padding: 30px;
+}
+
+h2{
+	 width: 100%;
+    text-shadow:  2px 2px 6px blueviolet;
+    text-decoration: overline underline;
+    font-family: oblique;
+}
